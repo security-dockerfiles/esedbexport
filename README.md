@@ -1,7 +1,7 @@
 About
 -----
 
-Builds old fast version of the esedbexport tool (libesed-alpha-20120201) so you don't have to.
+Builds old fast version of the esedbexport tool (libesedb-alpha-20120201) so you don't have to.
 
 Based on Alpine.
 
