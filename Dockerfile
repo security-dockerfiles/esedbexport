@@ -1,4 +1,5 @@
 FROM alpine:latest
+LABEL maintainer "ilya@ilyaglotov.com"
 
 ENV LIBUNA_VERSION 20170825
 ENV LIBESEDB_VERSION 20120102
