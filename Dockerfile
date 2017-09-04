@@ -39,4 +39,6 @@ RUN apk update \
 
 VOLUME /data
 
+USER esedb
+
 ENTRYPOINT ["esedbexport"]
